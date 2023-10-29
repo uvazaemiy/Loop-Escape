@@ -1,0 +1,37 @@
+{ "skeleton": { "images": "E:/HC6/Source Spine Animation Fly/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Wing_Front", "bone": "root", "attachment": "Wing_Front" },
+	{ "name": "Wing_Rear", "bone": "root", "attachment": "Wing_Rear" },
+	{ "name": "Paws_Rear", "bone": "root", "attachment": "Paws_Rear" },
+	{ "name": "Tors_M", "bone": "root", "attachment": "Tors_M" },
+	{ "name": "Paws_Front", "bone": "root", "attachment": "Paws_Front" },
+	{ "name": "Head_M", "bone": "root", "attachment": "Head_M" }
+],
+"skins": {
+	"default": {
+		"Wing_Front": {
+			"Wing_Front": { "x": 89, "y": -39.5, "width": 68, "height": 69 }
+		},
+		"Wing_Rear": {
+			"Wing_Rear": { "x": 30, "y": -35.5, "width": 58, "height": 69 }
+		},
+		"Paws_Rear": {
+			"Paws_Rear": { "x": 26.5, "y": -92, "width": 55, "height": 48 }
+		},
+		"Tors_M": {
+			"Tors_M": { "x": 57.5, "y": -83.5, "width": 49, "height": 41 }
+		},
+		"Paws_Front": {
+			"Paws_Front": { "x": 85, "y": -93.5, "width": 66, "height": 51 }
+		},
+		"Head_M": {
+			"Head_M": { "x": 39.5, "y": -54.5, "width": 57, "height": 63 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

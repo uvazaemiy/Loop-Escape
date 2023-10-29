@@ -1,0 +1,57 @@
+{ "skeleton": { "images": "E:/HC6/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "front_shin", "bone": "root", "attachment": "front_shin" },
+	{ "name": "rear_shin", "bone": "root", "attachment": "rear_shin" },
+	{ "name": "rear_foot", "bone": "root", "attachment": "rear_foot" },
+	{ "name": "front_foot", "bone": "root", "attachment": "front_foot" },
+	{ "name": "rear_bracer", "bone": "root", "attachment": "rear_bracer" },
+	{ "name": "Sumka", "bone": "root", "attachment": "Sumka" },
+	{ "name": "rear_thigh", "bone": "root", "attachment": "rear_thigh" },
+	{ "name": "front-thigh", "bone": "root", "attachment": "front-thigh" },
+	{ "name": "torso", "bone": "root", "attachment": "torso" },
+	{ "name": "head", "bone": "root", "attachment": "head" },
+	{ "name": "fron_bracer", "bone": "root", "attachment": "fron_bracer" }
+],
+"skins": {
+	"default": {
+		"front_shin": {
+			"front_shin": { "x": 53, "y": -199, "width": 22, "height": 38 }
+		},
+		"rear_shin": {
+			"rear_shin": { "x": 75, "y": -199, "width": 22, "height": 38 }
+		},
+		"rear_foot": {
+			"rear_foot": { "x": 83, "y": -223.5, "width": 48, "height": 35 }
+		},
+		"front_foot": {
+			"front_foot": { "x": 61.5, "y": -225, "width": 49, "height": 34 }
+		},
+		"rear_bracer": {
+			"rear_bracer": { "x": 98, "y": -136, "width": 40, "height": 86 }
+		},
+		"Sumka": {
+			"Sumka": { "x": 30.5, "y": -116, "width": 63, "height": 88 }
+		},
+		"rear_thigh": {
+			"rear_thigh": { "x": 75, "y": -161, "width": 40, "height": 66 }
+		},
+		"front-thigh": {
+			"front-thigh": { "x": 59, "y": -162.5, "width": 42, "height": 67 }
+		},
+		"torso": {
+			"torso": { "x": 64, "y": -116, "width": 66, "height": 80 }
+		},
+		"head": {
+			"head": { "x": 70, "y": -46.5, "width": 102, "height": 95 }
+		},
+		"fron_bracer": {
+			"fron_bracer": { "x": 37, "y": -137.5, "width": 34, "height": 93 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,83 @@
+
+Pers HC6.png
+size: 264,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sumka
+  rotate: false
+  xy: 135, 72
+  size: 61, 83
+  orig: 63, 88
+  offset: 1, 4
+  index: -1
+fron_bracer
+  rotate: false
+  xy: 99, 62
+  size: 34, 93
+  orig: 34, 93
+  offset: 0, 0
+  index: -1
+front-thigh
+  rotate: false
+  xy: 163, 6
+  size: 37, 64
+  orig: 42, 67
+  offset: 4, 1
+  index: -1
+front_foot
+  rotate: true
+  xy: 2, 2
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+front_shin
+  rotate: false
+  xy: 242, 41
+  size: 20, 36
+  orig: 22, 38
+  offset: 1, 1
+  index: -1
+rear_shin
+  rotate: false
+  xy: 242, 41
+  size: 20, 36
+  orig: 22, 38
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 2, 53
+  size: 102, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
+rear_bracer
+  rotate: true
+  xy: 75, 11
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+rear_foot
+  rotate: true
+  xy: 38, 3
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+rear_thigh
+  rotate: false
+  xy: 202, 14
+  size: 38, 63
+  orig: 40, 66
+  offset: 1, 1
+  index: -1
+torso
+  rotate: false
+  xy: 198, 79
+  size: 63, 76
+  orig: 66, 80
+  offset: 3, 0
+  index: -1

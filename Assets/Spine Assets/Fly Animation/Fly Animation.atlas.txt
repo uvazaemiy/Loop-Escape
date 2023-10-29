@@ -1,0 +1,48 @@
+
+Fly Animation.png
+size: 324,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head_M
+  rotate: false
+  xy: 128, 8
+  size: 54, 61
+  orig: 57, 63
+  offset: 1, 1
+  index: -1
+Paws_Front
+  rotate: true
+  xy: 184, 5
+  size: 64, 49
+  orig: 66, 51
+  offset: 1, 1
+  index: -1
+Paws_Rear
+  rotate: true
+  xy: 235, 16
+  size: 53, 46
+  orig: 55, 48
+  offset: 1, 1
+  index: -1
+Tors_M
+  rotate: true
+  xy: 283, 22
+  size: 47, 39
+  orig: 49, 41
+  offset: 1, 1
+  index: -1
+Wing_Front
+  rotate: false
+  xy: 2, 2
+  size: 66, 67
+  orig: 68, 69
+  offset: 1, 1
+  index: -1
+Wing_Rear
+  rotate: false
+  xy: 70, 2
+  size: 56, 67
+  orig: 58, 69
+  offset: 1, 1
+  index: -1
